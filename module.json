@@ -1,0 +1,12 @@
+{
+    "disableAutoUpdate": false,
+    "name": "translate-chat",
+    "description": "Translates incoming and outgoing messages to another language using Google Translate.",
+    "options": {
+        "niceName": "translate-chat",
+        "settingsVersion": 1,
+        "settingsFile": "config.json",
+        "settingsMigrator": "src/setting_migration.js"
+    },
+    "servers": ["https://raw.githubusercontent.com/FrostSigil/translate-chat/master/"]
+}
