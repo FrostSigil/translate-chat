@@ -1,10 +1,7 @@
 {
     "files": {
         "README.md": "75c2bee8e6664fbc487b60223b4c2b3e06246e4ee957edc2e1b883f56a95c162",
-        "config.json": {
-            "overwrite": false,
-            "hash": "cd59f25a12c05debc650640341dfa7d7f26c25e7894ee63f1a0ae51f7c242d14"
-        },
+        "config.json": "d0d12990503f46d951e230a71422be268704824a619ad44f37bfbf92e711a9f7",
         "lib/language-detector/LICENSE": "84912a26f83f364da008f21740f703434e380ed1658a9a00c9f3b8e5b045df36",
         "lib/language-detector/data/lang.json": "a26067df3f9f3f4498132c37cd8fdb5b2621be07b2db9483edc7fde51ca02031",
         "lib/language-detector/data/unicode_blocks.json": "60945d5e293568e0591625a286be98b246893d08dc133c4bba02eeaa4f716ed4",
@@ -12,7 +9,9 @@
         "lib/language-detector/lib/ISO639.js": "07ae63de281a38ed0f0d05eab368d6a0d59f981b3972814028dfd648665dcb07",
         "lib/language-detector/lib/LanguageDetect.js": "8dbc5e218a1990a908d435963d6500b78849b4cd3977c1f837615efdb36ad6bb",
         "lib/language-detector/lib/Parser.js": "492f50f49566effeaa0d37d1078915aba4477d4018c09bda228f7f68b07bec13",
-        "module.json": "50e6891a312ce56b739cd453ccdf12c755663b2be34f063a5a4e8cf9407834d6",
+        "lib/language-detector/package.json": "025d2442278dfd6f96c728bfa7824952764320af69b63c7e2ae1d7e7d07d38d6",
+        "module.json": "f50abff22a8fada1d1068f18b8dada65277fff492deb119fa01ff6670cfea030",
+        "package.json": "fd161ab1a4915ba68e0252dbabd8d033ab457c205f580cef4f8f7a51c6860450",
         "src/changelog.txt": "5c5e0065e7001046e7e5298e4d9304b2423a21d6762b4c6f9edce92965369f87",
         "src/exception-words.js": "03b6c78cbca131f1dc34d70d286e11953cef45d990be244e67696e1f03bf7599",
         "src/index.js": "518669b24c7cc04eaedeab84077a7e214db04179710a332b17b0d35ebfd3f618",

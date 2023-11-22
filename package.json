@@ -1,8 +1,9 @@
 {
   "name": "translate-chat",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "translates incoming chat text into another language",
   "main": "src/index.js",
+  "author": "Prav",
   "license": "MIT",
   "devDependencies": {
     "eslint": "^6.4.0",
