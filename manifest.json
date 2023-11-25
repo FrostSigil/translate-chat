@@ -1,7 +1,10 @@
 {
     "files": {
         "README.md": "75c2bee8e6664fbc487b60223b4c2b3e06246e4ee957edc2e1b883f56a95c162",
-        "config.json": "d0d12990503f46d951e230a71422be268704824a619ad44f37bfbf92e711a9f7",
+        "config.json": {
+            "overwrite": false,
+            "hash": "d0d12990503f46d951e230a71422be268704824a619ad44f37bfbf92e711a9f7"
+        },
         "lib/language-detector/LICENSE": "84912a26f83f364da008f21740f703434e380ed1658a9a00c9f3b8e5b045df36",
         "lib/language-detector/data/lang.json": "a26067df3f9f3f4498132c37cd8fdb5b2621be07b2db9483edc7fde51ca02031",
         "lib/language-detector/data/unicode_blocks.json": "60945d5e293568e0591625a286be98b246893d08dc133c4bba02eeaa4f716ed4",
